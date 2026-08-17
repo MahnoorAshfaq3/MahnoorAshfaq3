@@ -108,9 +108,9 @@ A fully functional quiz application with dynamic questions and interactive UI.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MahnoorAshfaq3&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=MahnoorAshfaq3&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=MahnoorAshfaq3&theme=solarized-light&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MahnoorAshfaq3&theme=solarized-light&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahnoorAshfaq3&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
